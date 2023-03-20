@@ -1,6 +1,6 @@
 # Employee Tracker
 
-<a href="https://drive.google.com/file/d/1lxEXm1a-l8-wHq_T48dRTxST9u0EjlE4/view">##Link to Walkthrough Video</a>
+## <a href="https://drive.google.com/file/d/1lxEXm1a-l8-wHq_T48dRTxST9u0EjlE4/view">Link to Walkthrough Video</a>
 
 ## Description
 
