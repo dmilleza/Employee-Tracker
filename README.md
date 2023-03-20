@@ -1,5 +1,7 @@
 # Employee Tracker
 
+<a href="https://drive.google.com/file/d/1lxEXm1a-l8-wHq_T48dRTxST9u0EjlE4/view">##Link to Walkthrough Video</a>
+
 ## Description
 
 a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
